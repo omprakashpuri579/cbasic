@@ -16,7 +16,7 @@ int main() {
     }
     else 
     {
-        charge = (100*40)+ (200*50) + ((unit - 300))*60;
+        charge = (100*400)+ (200*50) + ((unit - 300))*60;
 
     }
     charge = charge + 50;
